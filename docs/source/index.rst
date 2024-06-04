@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Nhà cái BJ88 - bj88.family
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Bj88 <https://bj88.family/>`_ - nhà cái trực tuyến, nền tảng đánh bạc trực tuyến uy tín và đáng tin cậy. Nơi cung cấp tỷ lệ và chấp nhận cược ở nhiều hạng mục như: thể thao, xổ số, sòng bài trực tuyến, đá gà SV388... Giao diện thân thiện giúp người dùng trải nghiệm thế giới cá cược với vô vàn phần thưởng hấp dẫn!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 135 Ngõ Thông Phong, P.Tôn Đức Thắng, P.Quốc Tử Giám, Q.Đống Đa, Hà Nội.
 
-   This project is under active development.
+Phone: 0987519567
 
-Contents
---------
+Email: info@bj88.family
 
-.. toctree::
+Website: `https://bj88.family/ <https://bj88.family/>`_
 
-   usage
-   api
+#Bj88 #Bj88family #Bj88daga #Bj88vip #nhacaibj88
